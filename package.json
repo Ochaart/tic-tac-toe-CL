@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe-CL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tic-tac-toe.js",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ochaart/tic-tac-toe-CL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ochaart/tic-tac-toe-CL/issues"
+  },
+  "homepage": "https://github.com/Ochaart/tic-tac-toe-CL#readme"
+}
